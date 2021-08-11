@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task 1</string>
+    <string name="username">Peter Smith</string>
+    <string name="country">Alberta, Canada</string>
+</resources>
